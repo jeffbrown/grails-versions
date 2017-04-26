@@ -34,7 +34,7 @@ for i in $(seq 0 16); do
 done
 
 # 3.2.x
-for i in $(seq 0 8); do
+for i in $(seq 0 9); do
    diffVersion 3.2.$i
 done
 
